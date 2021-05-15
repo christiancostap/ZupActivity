@@ -1,11 +1,8 @@
 package com.carregister.ZupActivity.services.servicesImpl;
 
 import com.carregister.ZupActivity.models.Car;
-import com.carregister.ZupActivity.models.User;
 import com.carregister.ZupActivity.repositories.ICarRepository;
-import com.carregister.ZupActivity.repositories.IUserRepository;
 import com.carregister.ZupActivity.services.ICarService;
-import com.carregister.ZupActivity.services.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
